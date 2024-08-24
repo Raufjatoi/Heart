@@ -50,8 +50,7 @@ Contributions are welcome! If you have suggestions or improvements, please:
 Feel free to reach out for any questions or collaboration opportunities:
 
 - **Email**: zulqar446ali@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/zulqarnainalipk/)
-
+- **LinkedIn**: [Abdul Rauf](https://www.linkedin.com/in/abdul-rauf-aa44892aa/)      
 ---
 
 Thank you for exploring the Heart Disease Prediction Model project! 🎉
